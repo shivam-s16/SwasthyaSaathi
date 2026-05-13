@@ -5,6 +5,8 @@
   Built natively in Kotlin using Jetpack Compose, powered by the blazing-fast inference of <b>Groq AI</b> (Llama-3-70B & Llama-3.2-11B-Vision).
 </p>
 
+
+Project APK and Video: https://drive.google.com/drive/folders/1qemzcL7sol748G8DsvMg6qbZR_UP4EaD?usp=sharing
 ---
 
 ## 📖 The Problem
