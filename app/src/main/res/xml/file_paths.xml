@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Internal app storage (context.filesDir) — where safety recordings are saved -->
+    <files-path name="recordings" path="." />
+    <!-- Cache directory — where chunked audio files go -->
+    <cache-path name="audio_chunks" path="." />
+</paths>
